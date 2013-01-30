@@ -51,9 +51,6 @@ When writing a large dynamic application, the number of jquery plugins trends to
 
 Roadmap
 -------
-* ~~Comprehensive CSS minification including style reduction~~
-* ~~LESS extension~~
-* Sprite compilation
-* Source maps?
+
 
 Suggestions always appreciated - feel free to post a feature request.
