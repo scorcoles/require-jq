@@ -26,7 +26,7 @@ Installation and Setup
 Download the require-jq folder manually or use [bower](https://github.com/volojs/volo)(`npm install bower -g`):
 
 ```bash
-bower install eherrera/require-jq
+bower install eberhm/require-jq
 ```
 
 To allow the direct `jq!` usage, add the following [map configuration](http://requirejs.org/docs/api.html#config-map) in RequireJS:
