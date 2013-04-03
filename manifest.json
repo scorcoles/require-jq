@@ -1,6 +1,6 @@
 {
     "name": "Require plugin for Jquery depending files",
-    "version": "v0.0.2",
+    "version": "v0.0.3",
     "manifest_version": 2,
     "description": "Jquery require plugin for loading jquery plugins and extensions as per requirejs issue #658 suggestion"
 }
