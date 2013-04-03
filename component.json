@@ -1,5 +1,5 @@
 {
-    "name": "jq",
-    "version": "0.0.1",
-    "main": "jq.js"
+  "name": "jq",
+  "version": "0.0.1",
+  "main": "jq.js"
 }
