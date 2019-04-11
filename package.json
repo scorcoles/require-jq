@@ -1,0 +1,23 @@
+{
+  "name": "require-jq",
+  "version": "0.0.4",
+  "description": "Jquery require plugin for loading jquery plugins and extensions as per requirejs",
+  "main": "jq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutantes/require-jq.git"
+  },
+  "keywords": [
+    "emagister",
+    "require"
+  ],
+  "author": "forked from Eber Herrera bower package to npm package",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutantes/require-jq/issues"
+  },
+  "homepage": "https://github.com/mutantes/require-jq#readme"
+}
