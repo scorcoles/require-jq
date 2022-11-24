@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mutantes/require-jq.git"
+    "url": "git+https://github.com/scorcoles/require-jq.git"
   },
   "keywords": [
     "emagister",
@@ -17,7 +17,7 @@
   "author": "forked from Eber Herrera bower package to npm package",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mutantes/require-jq/issues"
+    "url": "https://github.com/scorcoles/require-jq/issues"
   },
-  "homepage": "https://github.com/mutantes/require-jq#readme"
+  "homepage": "https://github.com/scorcoles/require-jq#readme"
 }
